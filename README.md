@@ -119,14 +119,15 @@ I'm open to opportunities, collaborations, and interesting projects in AI/ML, Ge
 
 <p align="center">
   <a href="https://linkedin.com/in/arooj-arshad-8205ab285">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:missarooj11@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Miss-Arooj">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+</p>
+
+<p align="center">
+  📧 <a href="mailto:missarooj11@gmail.com">missarooj11@gmail.com</a>
 </p>
 
 <p align="center">
