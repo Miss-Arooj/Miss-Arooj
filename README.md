@@ -1,27 +1,134 @@
-![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_720_1280/0/1626753867110?e=2147483647&v=beta&t=JOALVxWjySgR37iCdRMhNGmpCyYYDXlPdWk212JXdII)
+<!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Arooj Arshad</h1>
-<h3 align="center">A passionate Data Scientist from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<h3 align="center">AI/ML Engineer | Software Developer | Generative AI</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=miss-arooj&label=Profile%20views&color=0e75b6&style=flat" alt="miss-arooj" /> </p>
-
-- 🌱 My currently learning courses are: **Data Mining, Artificial Intelligence, Parallel and Distributed Computing, Marketing Management, Natural Language Processing**
-
-- 📫 How to reach me **missarooj11@gmail.com**
-
-- ⚡ Fun fact **I like to read books.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/arooj-arshad-8205ab285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arooj-arshad-8205ab285" height="30" width="40" /></a>
-<a href="https://instagram.com/aroojarshad786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aroojarshad786" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Miss-Arooj&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img align="right" alt="Coding" width="350" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miss-arooj&show_icons=true&locale=en&layout=compact" alt="miss-arooj" /></p>
+### 👩‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miss-arooj&show_icons=true&locale=en" alt="miss-arooj" /></p>
+I'm an AI/ML Engineer and Software Developer passionate about building intelligent applications and scalable software solutions.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miss-arooj&" alt="miss-arooj" /></p>
+- 🤖 Interested in Machine Learning, Deep Learning, and Generative AI.
+- 🧠 Exploring LLMs, RAG pipelines, AI Agents, and Model Context Protocol (MCP).
+- 💻 Building AI-powered applications and backend solutions.
+- ⚙️ Interested in software engineering, system design, and scalable applications.
+- 🌱 Continuously learning and exploring emerging AI technologies.
+- 📍 Based in Lahore, Pakistan.
+
+<br clear="right"/>
+
+---
+
+### 🛠️ Technical Skills & Technologies
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js" />
+</p>
+
+**AI / Machine Learning & Deep Learning**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Model%20Development-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-purple?style=flat-square" />
+</p>
+
+**Generative AI**
+
+<p>
+  <img src="https://img.shields.io/badge/LLMs-Large%20Language%20Models-412991?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-0A9396?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI%20Agents-Agentic%20AI-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-333333?style=flat-square" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-GenAI-FF6F61?style=flat-square" />
+</p>
+
+**Backend Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express" />
+  <img src="https://img.shields.io/badge/REST%20APIs-Integration-009688?style=flat-square" />
+</p>
+
+**Frontend Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
+
+**Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://img.shields.io/badge/SQL-Database-4479A1?style=flat-square" />
+</p>
+
+**Development Tools & Platforms**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux" />
+  <img src="https://img.shields.io/badge/PM2-Process%20Manager-2B037A?style=flat-square" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+Here are some areas I've worked on and projects I'm building:
+
+- **Churn Prediction System** – Machine learning-based customer churn prediction and analysis.
+- **RetiNex** – Deep learning-based diabetic retinopathy screening using retinal fundus images.
+- **TableTalk** – Rule-based voice assistant for restaurant reservations.
+- **Generative AI Applications** – Exploring LLM-powered applications, RAG, and AI agents.
+
+Explore my repositories for source code, implementations, and project details.
+
+<p>
+  <a href="https://github.com/Miss-Arooj?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Miss-Arooj&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miss-Arooj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miss-Arooj&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+I'm open to opportunities, collaborations, and interesting projects in AI/ML, Generative AI, and Software Engineering.
+
+<p align="center">
+  <a href="https://linkedin.com/in/arooj-arshad-8205ab285">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:missarooj11@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Miss-Arooj">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Building, Learning & Innovating with AI 🚀</b>
+</p>
