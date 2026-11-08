@@ -31,56 +31,54 @@ I'm an AI/ML Engineer and Software Developer passionate about building intellige
 **Programming Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js" alt="Python, C++, JavaScript" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js" alt="Python, C++, JavaScript" title="Python, C++, JavaScript" />
 </p>
 
 **AI / Machine Learning & Deep Learning**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" alt="TensorFlow, PyTorch, Scikit-learn" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-Model%20Development-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-purple?style=flat-square" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" alt="TensorFlow, PyTorch, Scikit-learn" title="TensorFlow, PyTorch, Scikit-learn" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Model%20Development-blue?style=flat-square" alt="Machine Learning" title="Machine Learning" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-orange?style=flat-square" alt="Deep Learning" title="Deep Learning" />
+  <img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-purple?style=flat-square" alt="NLP" title="Natural Language Processing" />
 </p>
 
 **Generative AI**
 
 <p>
-  <img src="https://img.shields.io/badge/LLMs-Large%20Language%20Models-412991?style=flat-square" />
-  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-0A9396?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI%20Agents-Agentic%20AI-6C63FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-333333?style=flat-square" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-GenAI-FF6F61?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLMs-Large%20Language%20Models-412991?style=flat-square" alt="LLMs" title="Large Language Models" />
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-0A9396?style=flat-square" alt="RAG" title="Retrieval-Augmented Generation" />
+  <img src="https://img.shields.io/badge/AI%20Agents-Agentic%20AI-6C63FF?style=flat-square" alt="AI Agents" title="AI Agents" />
+  <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-333333?style=flat-square" alt="MCP" title="Model Context Protocol" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-GenAI-FF6F61?style=flat-square" alt="Prompt Engineering" title="Prompt Engineering" />
 </p>
 
 **Backend Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express" alt="FastAPI, Flask, Node.js, Express" />
-  <img src="https://img.shields.io/badge/REST%20APIs-Integration-009688?style=flat-square" />
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express" alt="FastAPI, Flask, Node.js, Express" title="FastAPI, Flask, Node.js, Express" />
+  <img src="https://img.shields.io/badge/REST%20APIs-Integration-009688?style=flat-square" alt="REST APIs" title="REST APIs" />
 </p>
 
 **Frontend Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css" alt="React, HTML, CSS" />
+  <img src="https://skillicons.dev/icons?i=react,html,css" alt="React, HTML, CSS" title="React, HTML, CSS" />
 </p>
 
 **Databases**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="MySQL, MongoDB" />
-  <img src="https://img.shields.io/badge/SQL-Database-4479A1?style=flat-square" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="MySQL, MongoDB" title="MySQL, MongoDB" />
+  <img src="https://img.shields.io/badge/SQL-Database-4479A1?style=flat-square" alt="SQL" title="SQL" />
 </p>
 
 **Development Tools & Platforms**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux" alt="Git, GitHub, Linux" />
-  <img src="https://img.shields.io/badge/PM2-Process%20Manager-2B037A?style=flat-square" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux" alt="Git, GitHub, Linux" title="Git, GitHub, Linux" />
+  <img src="https://img.shields.io/badge/PM2-Process%20Manager-2B037A?style=flat-square" alt="PM2" title="PM2 Process Manager" />
 </p>
-
----
 
 ### 🚀 Featured Projects
 
