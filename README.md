@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Arooj Arshad
-
 <h1 align="center">Hi 👋, I'm Arooj Arshad</h1>
 <h3 align="center">AI/ML Engineer | Software Developer | Generative AI</h3>
 
