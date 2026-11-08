@@ -115,18 +115,18 @@ Explore my repositories for source code, implementations, and project details.
 I'm open to opportunities, collaborations, and interesting projects in AI/ML, Generative AI, and Software Engineering.
 
 <p align="center">
-  <a href="https://linkedin.com/in/arooj-arshad-8205ab285">
+  <a href="https://linkedin.com/in/arooj-arshad-8205ab285" target="_blank" rel="noopener noreferrer" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Miss-Arooj">
+  <a href="https://github.com/Miss-Arooj" target="_blank" rel="noopener noreferrer" title="GitHub">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 <p align="center">
-  📧 <b>Email:</b> <a href="mailto:missarooj11@gmail.com">missarooj11@gmail.com</a>
+  📧 <b>Email:</b> <a href="mailto:missarooj11@gmail.com" title="Send me an email">missarooj11@gmail.com</a>
 </p>
 
 <p align="center">
-  </b>Building, Learning & Innovating with AI 🚀</b>
+  <strong>Building, Learning & Innovating with AI 🚀</strong>
 </p>
