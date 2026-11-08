@@ -124,9 +124,9 @@ I'm open to opportunities, collaborations, and interesting projects in AI/ML, Ge
 </p>
 
 <p align="center">
-  📧 **Email:** <a href="mailto:missarooj11@gmail.com">missarooj11@gmail.com</a>
+  📧 <b>Email:</b> <a href="mailto:missarooj11@gmail.com">missarooj11@gmail.com</a>
 </p>
 
 <p align="center">
-  **Building, Learning & Innovating with AI 🚀**
+  </b>Building, Learning & Innovating with AI 🚀</b>
 </p>
