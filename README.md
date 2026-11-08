@@ -92,6 +92,8 @@ I'm an AI/ML Engineer and Software Developer passionate about building intellige
   <img src="https://img.shields.io/badge/PM2-Process%20Manager-2B037A?style=flat-square" title="PM2" alt="PM2" />
 </p>
 
+---
+
 ### 🚀 Featured Projects
 
 <!-- Add project names, descriptions, technologies, and repository links here. -->
