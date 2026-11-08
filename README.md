@@ -1,4 +1,5 @@
-<!-- Profile Header -->
+# 👋 Hi, I'm Arooj Arshad
+
 <h1 align="center">Hi 👋, I'm Arooj Arshad</h1>
 <h3 align="center">AI/ML Engineer | Software Developer | Generative AI</h3>
 
@@ -27,16 +28,16 @@ I'm an AI/ML Engineer and Software Developer passionate about building intellige
 
 ### 🛠️ Technical Skills & Technologies
 
-**Languages**
+**Programming Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js" alt="Python, C++, JavaScript" />
 </p>
 
 **AI / Machine Learning & Deep Learning**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" alt="TensorFlow, PyTorch, Scikit-learn" />
   <img src="https://img.shields.io/badge/Machine%20Learning-Model%20Development-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-purple?style=flat-square" />
@@ -55,27 +56,27 @@ I'm an AI/ML Engineer and Software Developer passionate about building intellige
 **Backend Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express" alt="FastAPI, Flask, Node.js, Express" />
   <img src="https://img.shields.io/badge/REST%20APIs-Integration-009688?style=flat-square" />
 </p>
 
 **Frontend Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,html,css" alt="React, HTML, CSS" />
 </p>
 
 **Databases**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="MySQL, MongoDB" />
   <img src="https://img.shields.io/badge/SQL-Database-4479A1?style=flat-square" />
 </p>
 
 **Development Tools & Platforms**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux" alt="Git, GitHub, Linux" />
   <img src="https://img.shields.io/badge/PM2-Process%20Manager-2B037A?style=flat-square" />
 </p>
 
@@ -83,29 +84,14 @@ I'm an AI/ML Engineer and Software Developer passionate about building intellige
 
 ### 🚀 Featured Projects
 
-Here are some areas I've worked on and projects I'm building:
-
-
+<!-- Add project names, descriptions, technologies, and repository links here. -->
 
 Explore my repositories for source code, implementations, and project details.
 
 <p>
   <a href="https://github.com/Miss-Arooj?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore My Repositories" />
   </a>
-</p>
-
----
-
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Miss-Arooj&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miss-Arooj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miss-Arooj&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 ---
@@ -115,16 +101,16 @@ Explore my repositories for source code, implementations, and project details.
 I'm open to opportunities, collaborations, and interesting projects in AI/ML, Generative AI, and Software Engineering.
 
 <p align="center">
-  <a href="https://linkedin.com/in/arooj-arshad-8205ab285" target="_blank" rel="noopener noreferrer" title="LinkedIn">
+  <a href="https://linkedin.com/in/arooj-arshad-8205ab285">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Miss-Arooj" target="_blank" rel="noopener noreferrer" title="GitHub">
+  <a href="https://github.com/Miss-Arooj">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 <p align="center">
-  📧 <b>Email:</b> <a href="mailto:missarooj11@gmail.com" title="Send me an email">missarooj11@gmail.com</a>
+  📧 <strong>Email:</strong> <a href="mailto:missarooj11@gmail.com">missarooj11@gmail.com</a>
 </p>
 
 <p align="center">
