@@ -26,7 +26,6 @@ I'm an AI/ML Engineer and Software Developer passionate about building intellige
 
 ---
 
-
 ### 🛠️ Technical Skills & Technologies
 
 **Programming Languages**
