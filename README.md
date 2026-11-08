@@ -85,10 +85,7 @@ I'm an AI/ML Engineer and Software Developer passionate about building intellige
 
 Here are some areas I've worked on and projects I'm building:
 
-- **Churn Prediction System** – Machine learning-based customer churn prediction and analysis.
-- **RetiNex** – Deep learning-based diabetic retinopathy screening using retinal fundus images.
-- **TableTalk** – Rule-based voice assistant for restaurant reservations.
-- **Generative AI Applications** – Exploring LLM-powered applications, RAG, and AI agents.
+
 
 Explore my repositories for source code, implementations, and project details.
 
@@ -119,17 +116,17 @@ I'm open to opportunities, collaborations, and interesting projects in AI/ML, Ge
 
 <p align="center">
   <a href="https://linkedin.com/in/arooj-arshad-8205ab285">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Miss-Arooj">
-    <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 <p align="center">
-  📧 <a href="mailto:missarooj11@gmail.com">missarooj11@gmail.com</a>
+  📧 **Email:** <a href="mailto:missarooj11@gmail.com">missarooj11@gmail.com</a>
 </p>
 
 <p align="center">
-  <b>Building, Learning & Innovating with AI 🚀</b>
+  **Building, Learning & Innovating with AI 🚀**
 </p>
